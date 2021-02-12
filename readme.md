@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 # Mini ERP E-commerce Project
-=======
-# Mini ERP Project
->>>>>>> 83bf790ebff8729aa6aa37ceeef3d37d37d9ea83
 
-> Complete mini ERP site built with Node.js, React, Redux, Express, MongoDB
+# Mini ERP Project
+
+Complete mini ERP site built with Node.js, React, Redux, Express, MongoDB
 
 ### Env Variables
 
@@ -32,4 +30,3 @@ Run it in the root folder.
 ```
 npm run seeder
 ```
-
