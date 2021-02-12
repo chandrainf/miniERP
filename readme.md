@@ -1,13 +1,10 @@
-# Mini ERP E-commerce Project
-
 # Mini ERP Project
 
-Complete mini ERP site built with Node.js, React, Redux, Express, MongoDB
+Proyek mini ERP dibangun dengan Node.js, React, Redux, Express, MongoDB
 
 ### Env Variables
 
-Create a .env file in the backend folder in config folder with name config.env
-Add your variables in that as shown in the course.
+Buat sebuah file .env di folder backend dalam folder config dengan nama config.env
 
 ### Install Dependencies (Frontend)
 
@@ -24,8 +21,8 @@ npm i
 
 ### Seed Database
 
-Use the following commeand to put some dummy products in that database.
-Run it in the root folder.
+Ikuti command ini untuk mengimpor data produk yang ada dalam database.
+Jalankan pada root folder.
 
 ```
 npm run seeder
